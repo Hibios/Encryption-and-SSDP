@@ -1,5 +1,4 @@
-# Python function library \n
-Various useful features for projects
+Some encryption capabilities in python and the use of the ssdp protocol.
 
 # hash_function.py \n
 Before starting:
